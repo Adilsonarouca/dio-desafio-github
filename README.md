@@ -1,2 +1,2 @@
 # Repositorio do desafio de projeto sobre GIT/Github da DIO
-Desafio projeto para GIT\Github
+Repositorio criado para o desafio de projeto.
